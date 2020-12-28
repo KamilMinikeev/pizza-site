@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Roboto-Light";
+    src: url('../fonts/roboto/Roboto-Light.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: "Montserrat-Black";
+    src: url('../fonts/montserrat/Montserrat-Black.otf') format("truetype");
+}
